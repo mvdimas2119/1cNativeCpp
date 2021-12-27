@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bundle xmlns="http://v8.1c.ru/8.2/addin/bundle" name="ru_infostart_education3_1_196">
+	<component os="Android" path="libru_infostart_education3_ARM_1_196.so" codeType="c++" type="native" arch="ARM"/>
+	<component os="Android" path="infostart_education3_1_196.apk" codeType="java" type="native" arch="ARM"/>
+
+</bundle>
